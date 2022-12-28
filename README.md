@@ -1,2 +1,6 @@
 # RocketMQDemo
 RocketMQ基本使用演示
+
+RocketMQALiTest是在SpringBoot环境下集成RocketMQ，运行test包下的文件即可测试
+
+RocketMQALiTestMvn是对RocketMQ环境进测试，搭建服务器后先运行此代码验证搭建是否成功
